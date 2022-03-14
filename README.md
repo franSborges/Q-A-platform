@@ -20,7 +20,7 @@ Esse projeto foi feito com javaScript, Node.js, Express.js e integração com ba
 
 
 <p align = "center">
-  <img min-width = "1000" height = "420" src = "plataforma-perguntas-respostas/screencast-localhost_8000-2022.03.11-21_38_56.gif">
+  <img min-width = "1000" height = "420" src = "platform-project/screencast-localhost_8000-2022.03.11-21_38_56.gif">
 </p>
 
 
